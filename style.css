@@ -1,0 +1,40 @@
+h1.titulo {
+
+    background-color: rgb(240, 243, 73);
+
+    text-align: center; 
+
+}
+
+nav {
+
+    background-color: rgb(105, 241, 105);
+
+    text-align: center; 
+
+}
+
+blockquote.intro {
+
+
+    background-color: rgb(241, 171, 121);
+
+    text-align: left;
+
+}
+
+footer.final {
+
+    background-color: rgb(241, 171, 121);
+
+    text-align: center;
+
+}
+
+footer.final1 {
+
+    background-color: rgb(58, 115, 168);
+
+    text-align: center;
+
+}
